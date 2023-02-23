@@ -9,6 +9,7 @@ the **Minesweeper** game of different difficulty levels with
 a decent winning rate. 
 
 ![Playable](./Example/20grid.PNG)
+
 Playable version of 20x20 grid with 20 mines<br/>
 
 ## Contents
